@@ -2,6 +2,8 @@
 Making input to graph is a hard part.
 Then we can solve with BFS since edges are unweighted.
 Answer is min(BFS(start with black edge), BFS(start with white edge))
+
+If you are following the code make sure to notice that I have x and y swapped. I made a mistake in taking input.
 */
 
 /*
